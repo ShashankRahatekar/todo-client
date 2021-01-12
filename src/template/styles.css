@@ -1,0 +1,33 @@
+.main-body-div {
+	padding: 25px;
+	height: 100vh;
+	user-select: none;
+	/* background-color: aliceblue; */
+}
+
+.todo-header {
+	background-color: aliceblue;
+	width: 25px;
+}
+
+.header-li-item {
+	display: inline;
+	float: left;
+}
+
+.todo-header-item {
+	min-width: 130px;
+	width: 250px;
+	max-width: 300px;
+	padding: 12px;
+	text-align: left;
+	background-color: rgb(245, 245, 245);
+	margin-top: 10px;
+	margin-left: 12px;
+
+	height: 100vh;
+}
+
+.todo-card-holder {
+	margin-top: 12px;
+}
